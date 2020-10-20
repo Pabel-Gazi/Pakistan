@@ -6,6 +6,7 @@
 ##### Future:
 ##### Login With New FB ID.
 ##### Login With Access Token[New Update]
+##### Hack From Public,Friendlist ID and Form File!
 
          Install on Termux :
 
